@@ -2,6 +2,12 @@
 
 An AI-powered job application assistant that helps you find jobs, tailor your resume, and generate personalized cover letters using CrewAI and Streamlit.
 
+## 🌐 Live Demo
+
+**🚀 [Try the Live App](https://crewai-job-finder.streamlit.app/)**
+
+Experience the full functionality of the Job Application Crew with real-time job search, resume tailoring, and cover letter generation.
+
 ## ✨ Features
 
 - **🔍 Job Search**: Find relevant job opportunities using JSearch API
